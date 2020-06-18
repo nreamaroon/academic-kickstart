@@ -1,8 +1,7 @@
 ---
 title: Narathip (Nick) Reamaroon
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Student
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -21,8 +20,8 @@ social:
     icon_pack: fab
     link: https://github.com/nreamaroon
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Michigan
+    url: https://medicine.umich.edu/dept/computational-medicine-bioinformatics
 education:
   courses:
     - course: PhD in Computational Medicine & Bioinformatics
