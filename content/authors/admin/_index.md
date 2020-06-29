@@ -1,6 +1,7 @@
 ---
 title: Narathip (Nick) Reamaroon
 role: PhD Student
+avatar_filename: v1.png
 bio: ""
 interests:
   - Artificial Intelligence in Health Research
