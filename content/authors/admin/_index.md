@@ -1,12 +1,14 @@
 ---
 title: Narathip (Nick) Reamaroon
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Student
+avatar_filename: v1.png
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence in Health Research
+  - Probabilistic Modeling
+  - Causal Inference
+  - Label Uncertainty
+  - Time-Series Analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,8 +23,8 @@ social:
     icon_pack: fab
     link: https://github.com/nreamaroon
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Michigan
+    url: https://medicine.umich.edu/dept/computational-medicine-bioinformatics
 education:
   courses:
     - course: PhD in Computational Medicine & Bioinformatics
@@ -40,5 +42,3 @@ user_groups:
   - Visitors
 ---
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
