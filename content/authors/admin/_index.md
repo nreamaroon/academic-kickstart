@@ -1,5 +1,5 @@
 ---
-title: Narathip (Nick) Reamaroon
+title: Nick (Narathip) Reamaroon
 role: PhD Student
 avatar_filename: v1.png
 bio: ""
