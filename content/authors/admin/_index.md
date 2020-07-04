@@ -5,10 +5,11 @@ avatar_filename: v1.png
 bio: ""
 interests:
   - Artificial Intelligence in Health Research
-  - Probabilistic Modeling
-  - Causal Inference
   - Label Uncertainty
-  - Time-Series Analysis
+  - Transfer Learning
+  - Time-Series Forecasting
+  - Probabilistic Modeling
+  - Bayesian Inference
 social:
   - icon: envelope
     icon_pack: fas
