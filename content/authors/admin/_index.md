@@ -45,10 +45,10 @@ user_groups:
 ---
 Hi! I’m Nick (he/him).
 
-I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m doing research on transfer learning, probablistic models, and label uncertainty for early detection of disease and outcome prediction in acute respiratory distress syndrome. 
+I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m doing research on probablistic models, label uncertainty, and transfer learning for early detection of disease and outcome prediction in acute respiratory distress syndrome. My research also involves work with computer vision and image processing methods - 
 
 
 
-I’m graduating in December 2020 and am currently searching for a full-time position as research scientist/engineer in data science and machine learning. Being able to do impactful work in the field of health research would be a huge plus to me!
+I’m graduating in December 2020 and am currently searching for a full-time position as research scientist/engineer in data science and machine learning. Being able to do impactful work in the field of health and biomedical research would be a huge plus for me!
 
 Feel free to get in touch.
