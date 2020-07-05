@@ -43,10 +43,12 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I’m Nick.
+Hi! I’m Nick (he/him).
 
-I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m doing research on
+I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m using for early detection of disease and outcome prediction in acute respiratory distress syndrome. 
 
 
 
-I’m graduating in December 2020 and am currently searching for a full-time position as research scientist/engineer in data science and machine learning.
+I’m graduating in December 2020 and am currently searching for a full-time position as research scientist/engineer in data science and machine learning. Being able to do impactful work in the field of health research would be a huge plus to me!
+
+Feel free to get in touch.
