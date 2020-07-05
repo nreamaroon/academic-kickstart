@@ -5,6 +5,7 @@ avatar_filename: v1.png
 bio: ""
 interests:
   - Artificial Intelligence in Health Research
+  - Model Interpretability
   - Label Uncertainty
   - Transfer Learning
   - Time-Series Forecasting
