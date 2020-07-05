@@ -45,7 +45,7 @@ user_groups:
 ---
 Hi! I’m Nick (he/him).
 
-I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m using for early detection of disease and outcome prediction in acute respiratory distress syndrome. 
+I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m doing research on transfer learning, probablistic models, and label uncertainty for early detection of disease and outcome prediction in acute respiratory distress syndrome. 
 
 
 
