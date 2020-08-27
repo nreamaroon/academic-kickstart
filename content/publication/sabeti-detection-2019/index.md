@@ -1,5 +1,5 @@
 ---
-title: "Detection of Acute Respiratory Distress Syndrome by Incorporation of Label Uncertainty and Partially Available Privileged Information*"
+title: "Detection of Acute Respiratory Distress Syndrome by Incorporation of Label Uncertainty and Partially Available Privileged Information"
 date: 2019-07-01
 publishDate: 2020-07-13T03:35:36.551899Z
 authors: ["Elyas Sabeti", "Joshua Drews", "Narathip Reamaroon", "Jonathan Gryak", "Michael Sjoding", "Kayvan Najarian"]
