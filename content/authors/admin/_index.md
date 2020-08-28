@@ -43,9 +43,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I’m Nick (he/him).
-
-I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the Biomedical & Clinical Informatics Lab. Specifically, I’m doing research on label uncertainty from clinical ambiguity and transfer learning of deep neural networks for early detection of disease and outcome prediction in acute respiratory distress syndrome. My research also involves work with computer vision and image processing methods - including \[] and convolutional neural networks for object detection, tracking, and segmentation. 
+I’m a PhD student at the University of Michigan. I work on applications of artificial intelligence in medicine and health research at the {{< staticref "http://najarianlab.ccmb.med.umich.edu" "newtab" >}}Biomedical & Clinical Informatics Lab{{< /staticref >}}. Specifically, I’m doing research on label uncertainty from clinical ambiguity and transfer learning of deep neural networks for early detection of disease and outcome prediction in acute respiratory distress syndrome. My research also involves work with computer vision and image processing methods - including \[] and convolutional neural networks for object detection, tracking, and segmentation. 
 
 I’m graduating in December 2020 and am currently searching for a full-time position as research scientist/engineer in data science and machine learning. Being able to do impactful work in the field of health and biomedical research would be a huge plus for me!
 
