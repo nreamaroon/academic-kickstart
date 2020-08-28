@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: mailto:nreamaro@umich.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/nreamaroon
@@ -24,6 +24,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nreamaroon
+  - icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/nreamaroon/
 organizations:
   - name: University of Michigan
     url: https://medicine.umich.edu/dept/computational-medicine-bioinformatics
