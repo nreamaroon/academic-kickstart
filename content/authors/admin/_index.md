@@ -35,8 +35,6 @@ education:
     - course: PhD in Computational Medicine & Bioinformatics
       institution: University of Michigan
       year: 2020
-      icon: envelope
-      icon_pack: fas
     - course: BS in Computational Neuroscience
       institution: University of California, San Diego
       year: 2014
