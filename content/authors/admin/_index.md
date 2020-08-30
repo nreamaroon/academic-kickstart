@@ -30,8 +30,6 @@ social:
 organizations:
   - name: University of Michigan
     url: https://medicine.umich.edu/dept/computational-medicine-bioinformatics
-    icon_pack: fab
-    icon: linkedin
 education:
   courses:
     - course: PhD in Computational Medicine & Bioinformatics
