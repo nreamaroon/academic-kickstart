@@ -18,8 +18,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/nreamaroon
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=Xc58Xx0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
