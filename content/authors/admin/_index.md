@@ -27,6 +27,9 @@ social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/nreamaroon/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Xc58Xx0AAAAJ&hl=en
 organizations:
   - name: University of Michigan
     url: https://medicine.umich.edu/dept/computational-medicine-bioinformatics
