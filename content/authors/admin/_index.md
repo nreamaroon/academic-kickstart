@@ -1,6 +1,6 @@
 ---
 name: Nick (Narathip) Reamaroon
-role: PhD Student
+role: PhD Student, Department of Computational Medicine & Bioinformatics
 avatar_filename: v1.png
 bio: ""
 interests:
