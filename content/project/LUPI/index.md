@@ -11,14 +11,15 @@ external_link: ""
 image:
   caption: Photo by Narathip Reamaroon
   focal_point: Smart
+  preview_only: true
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/nreamaroon
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9138681"
 url_slides: ""
 url_video: ""
 
