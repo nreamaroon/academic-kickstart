@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Learning Using Privileged Information
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
