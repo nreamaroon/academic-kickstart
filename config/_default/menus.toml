@@ -32,7 +32,7 @@
 [[main]]
   Name = "Experience"
   parent = "more"
-  URL = "#"
+  URL = "#experience"
   Weight = 50
 
 [[main]]
