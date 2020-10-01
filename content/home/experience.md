@@ -40,8 +40,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Associate"
   company = "Dart Neuroscience"
-  company_url = "San Diego, CA"
-  location = "California"
+  company_url = "http://www.dartneuroscience.com"
+  location = "San Diego, California"
   date_start = "2014-04-01"
   date_end = "2016-05-01"
   description = """Predictive modeling, statistical analysis, and assay validation for drug discovery.
