@@ -44,7 +44,10 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2014-04-01"
   date_end = "2016-04-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Predictive modeling, statistical analysis, and assay validation for drug discovery.
+
+  * Built data visualization dashboard with an interactive interface (Tableau) to improve high-throughput screening efficiency.
+  * Deployed and maintained machine learning models for real-time analysis of EC50 from target dose response curves."""
 
 [[experience]]
   title = "Undergraduate Researcher"
@@ -55,12 +58,17 @@ date_format = "Jan 2006"
   date_end = "2011-01-01"
   description = """
 
-  Conducted undergraduate research under the supervision of Dr. Mark Tuszynski and Dr. James Conner.
+  Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner.
 
   Main courses include: 
 
   * Information Theory
   * Algorithms for Analysis of Neural Data
-  * Biophysical Basis of Neuronal Computation."""
+  * Biophysical Basis of Neuronal Computation.
+  * Neurodynamics
+  * Computational Neurobiology
+  * Waves & Optics
+  * Multivariate Analysis
+  * Probability Theory"""
 
 +++
