@@ -6,7 +6,7 @@ authors: ["Narathip Reamaroon", "Michael Sjoding", "Harm Derksen", "Elyas Sabeti
 publication_types: ["2"]
 abstract: "This paper was just accepted on 09/25/20 - more info coming soon!."
 featured: false
-summary: "BMC Medical Imaging"
+summary: "*BMC Medical Imaging*"
 publication: "*BMC Medical Imaging*"
 url_pdf: ""
 doi: ""
