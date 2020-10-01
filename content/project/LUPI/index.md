@@ -1,5 +1,5 @@
 ---
-title: Learning Using Privileged Information
+title: Privileged Information in Reinforcement Learning, Support Vector Machines, and Gradient Boosting
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

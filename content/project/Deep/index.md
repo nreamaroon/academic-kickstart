@@ -1,5 +1,5 @@
 ---
-title: Transfer Learning and Directional Blur for Detection of Acute Respiratory Distress Syndrome
+title: Transfer Learning and Directional Blur
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

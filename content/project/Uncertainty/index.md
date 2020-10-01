@@ -1,5 +1,5 @@
 ---
-title: Machine Learning & Label Uncertainty from Ambiguity in Medical Diagnosis
+title: Label Uncertainty from Ambiguity in Medical Diagnosis
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
