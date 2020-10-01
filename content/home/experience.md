@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Graduate Researcher"
+  company = "University of Michigan"
+  company_url = "http://najarianlab.ccmb.med.umich.edu
+  location = "Ann Arbor, MI"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -34,10 +34,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Research Associate"
+  company = "Dart Neuroscience"
+  company_url = "San Diego, CA"
   location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Undergraduate Researcher"
+  company = "University of California, San Diego"
+  company_url = "https://medschool.ucsd.edu/som/neurosciences/centers/neural-repair/Pages/default.aspx"
+  location = "La Jola, CA"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
