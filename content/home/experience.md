@@ -38,17 +38,17 @@ date_format = "Jan 2006"
   company = "Dart Neuroscience"
   company_url = "San Diego, CA"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2014-04-01"
+  date_end = "2016-04-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Undergraduate Researcher"
   company = "University of California, San Diego"
-  company_url = ""
+  company_url = "https://medschool.ucsd.edu/som/neurosciences/centers/neural-repair/Pages/default.aspx"
   location = "La Jola, CA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2012-01-01"
+  date_end = "2011-01-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
