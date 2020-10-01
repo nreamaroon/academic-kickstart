@@ -27,19 +27,19 @@
     Name = "Teams"
     identifier = "teams"
     URL = "#"
-    Weight = 1.0
+    Weight = 50
 
   [[menu.main]]
     Name = "Team 1"
     parent = "teams"
     URL = "/teams/team1.md"
-    Weight = 1.0
+    Weight = 50
 
   [[menu.main]]
     Name = "Team 2"
     parent = "teams"
     URL = "/teams/team2.md"
-    Weight = 2.0
+    Weight = 51
 
 [[main]]
   name = "Contact"
