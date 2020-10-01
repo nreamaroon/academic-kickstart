@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   * Built data visualization dashboard with an interactive interface (Tableau) to improve high-throughput screening efficiency.
   * Deployed and maintained machine learning models for real-time analysis of EC50 from target dose response curves.
 
-  ![image alt text](/dns.png)
+  {{< figure library="true" src="dns.jpg" title="A caption" >}}
 
   """
 
