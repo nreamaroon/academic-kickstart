@@ -26,11 +26,15 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
+  
+  Worked under the supervision of Dr. Kayvan Najarian on applications of artificial intelligence in medicine and healthcare.
+
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developed theoretically motivated, principled algorithms for clinical decision support systems.
+  * Close collaboration with a multi-disciplinary team of scientists/engineers in our lab and physicians at Michigan Medicine.
+  * Led multiple projects from start to finish: including grant proposal, data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
+
   """
 
 [[experience]]
@@ -49,6 +53,14 @@ date_format = "Jan 2006"
   location = "La Jola, CA"
   date_start = "2012-01-01"
   date_end = "2011-01-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+
+  Conducted undergraduate research under the supervision of Dr. Mark Tuszynski and Dr. James Conner.
+
+  Main courses include: 
+
+  * Information Theory
+  * Algorithms for Analysis of Neural Data
+  * Biophysical Basis of Neuronal Computation."""
 
 +++
