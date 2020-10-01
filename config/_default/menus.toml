@@ -23,23 +23,23 @@
   url = "files/nick-reamaroon-resume.pdf"
   weight = 40
 
-[[menu.main]]
-    Name = "More"
-    identifier = "more"
+  [[menu.main]]
+    Name = "Teams"
+    identifier = "teams"
     URL = "#"
-    Weight = 50
+    Weight = 1.0
 
-[[menu.main]]
-    Name = "Test 1"
-    parent = "more"
-    URL = "#"
-    Weight = 51
+  [[menu.main]]
+    Name = "Team 1"
+    parent = "teams"
+    URL = "/teams/team1.md"
+    Weight = 1.0
 
-[[menu.main]]
-    Name = "Test 2"
-    parent = "more"
-    URL = "#"
-    Weight = 52
+  [[menu.main]]
+    Name = "Team 2"
+    parent = "teams"
+    URL = "/teams/team2.md"
+    Weight = 2.0
 
 [[main]]
   name = "Contact"
