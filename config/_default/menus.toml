@@ -24,22 +24,22 @@
   weight = 40
 
 [[main]]
-  Name = "Teams"
-  identifier = "teams"
+  Name = "More"
+  identifier = "more"
   URL = "#"
   Weight = 50
 
 [[main]]
-  Name = "Team 1"
-  parent = "teams"
+  Name = "Experience"
+  parent = "more"
   URL = "#"
   Weight = 50
 
 [[main]]
-  Name = "Team 2"
-  parent = "teams"
+  Name = "Recognition"
+  parent = "more"
   URL = "#"
-  Weight = 551
+  Weight = 51
 
 [[main]]
   name = "Contact"
