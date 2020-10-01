@@ -64,7 +64,7 @@ date_format = "Jan 2006"
 
   * Information Theory
   * Algorithms for Analysis of Neural Data
-  * Biophysical Basis of Neuronal Computation.
+  * Biophysical Basis of Neuronal Computation
   * Neurodynamics
   * Computational Neurobiology
   * Waves & Optics
