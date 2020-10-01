@@ -9,5 +9,6 @@ featured: false
 publication: "*Informatics in Medicine Unlocked*"
 url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S2352914819301856"
 doi: "10.1016/j.imu.2019.100222"
+url_code: "https://github.com/kayvanlabs/ARDS/tree/master/Waveforms"
 ---
 
