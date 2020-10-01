@@ -5,6 +5,7 @@ publishDate: 2020-07-13T03:35:36.551520Z
 authors: ["Narathip Reamaroon", "Michael Sjoding", "Harm Derksen", "Elyas Sabeti", "Jonathan Gryak", "Ryan Barbaro", "Brian Athey", "Kayvan Najarian"]
 publication_types: ["2"]
 abstract: "This paper was just accepted on 09/25/20 - more info coming soon!."
+abstract_short = "A short version of the abstract."
 featured: false
 publication: "*BMC Medical Imaging*"
 url_pdf: ""
