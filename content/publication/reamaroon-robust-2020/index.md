@@ -11,5 +11,6 @@ publication: "*BMC Medical Imaging*"
 url_pdf: ""
 doi: ""
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/CXR"
+url_project: 'https://nickreamaroon.com/project/segmentation/'
 ---
 
