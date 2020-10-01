@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = "San Diego, CA"
   location = "California"
   date_start = "2014-04-01"
-  date_end = "2016-04-01"
+  date_end = "2016-05-01"
   description = """Predictive modeling, statistical analysis, and assay validation for drug discovery.
 
   * Built data visualization dashboard with an interactive interface (Tableau) to improve high-throughput screening efficiency.
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company_url = "https://medschool.ucsd.edu/som/neurosciences/centers/neural-repair/Pages/default.aspx"
   location = "La Jola, CA"
   date_start = "2012-01-01"
-  date_end = "2011-01-01"
+  date_end = "2013-12-01"
   description = """
 
   Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner.
