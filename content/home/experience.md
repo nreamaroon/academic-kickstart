@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Researcher"
   company = "University of Michigan"
-  company_url = "http://najarianlab.ccmb.med.umich.edu
+  company_url = "http://najarianlab.ccmb.med.umich.edu"
   location = "Ann Arbor, MI"
   date_start = "2016-09-01"
   date_end = ""
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate Researcher"
   company = "University of California, San Diego"
-  company_url = "https://medschool.ucsd.edu/som/neurosciences/centers/neural-repair/Pages/default.aspx"
+  company_url = ""
   location = "La Jola, CA"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
