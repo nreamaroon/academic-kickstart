@@ -104,4 +104,15 @@ date_format = "Jan 2006"
 
 """
 
+[[experience]]
+  title = "Intern"
+  company = "California NanoSystems Institute at UCLA"
+  company_url = "https://cnsi.ucla.edu"
+  location = "Los Angeles, California"
+  date_start = "2008-05-01"
+  date_end = "2009-08-01"
+  description = """In silico drug delivery with nanotechnology and ferrofluids for cancer treatment.
+
+"""
+
 +++
