@@ -18,13 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Bill & Melinda Gates Foundation"
+  organization_url = "https://www.gatesfoundation.org"
+  title = "Gates Graduate Fellowship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://gmsp.org"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Michigan"
+  organization_url = "https://umich.edu"
+  title = "Rackham Merit Fellowship"
+  url = "https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/"
+  certificate_url = ""
+  date_start = "2016-05-01"
   date_end = ""
   description = ""
 
