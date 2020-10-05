@@ -4,13 +4,14 @@ role: PhD Student, Department of Computational Medicine & Bioinformatics
 avatar_filename: v1.png
 bio: ""
 interests:
-  - Artificial Intelligence in Health Research
+  - Artificial Intelligence in Health
   - Reinforcement Learning
-  - Probabilistic Modeling
+  - Transfer Learning
   - Model Interpretability
   - Label Uncertainty
-  - Transfer Learning
   - Bayesian Inference
+  - Probabilistic Modeling
+  - Bias and Fairness in ML
 social:
   - icon: envelope
     icon_pack: fas
