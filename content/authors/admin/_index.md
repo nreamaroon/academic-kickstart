@@ -40,7 +40,7 @@ education:
       icon_pack: fas
     - course: BS in Computational Neuroscience
       institution: University of California, San Diego
-      year: 2014
+      year: 2013
 email: ""
 superuser: true
 authors:
