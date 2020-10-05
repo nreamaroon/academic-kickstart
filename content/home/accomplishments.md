@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Involvement & Recognition"
+title = "Awards & Recognition"
 subtitle = ""
 
 # Date format
@@ -20,13 +20,13 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "National Science Foundation"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization_url = "https://www.nsf.gov"
+  title = "Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome"
+  url = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1722801&HistoricalAwards=false"
+  certificate_url = ""
+  date_start = "2017"
   date_end = ""
-  description = ""
+  description = "Description coming soon."
 
 [[item]]
   organization = "University of Michigan"
@@ -34,9 +34,19 @@ date_format = "Jan 2006"
   title = "Rackham Merit Fellowship"
   url = "https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2016"
   date_end = ""
-  description = ""
+  description = "Description coming soon."
+
+[[item]]
+  organization = "Bill & Melinda Gates Foundation"
+  organization_url = "https://www.gatesfoundation.org"
+  title = "Gates Graduate Fellowship"
+  url = "https://gmsp.org"
+  certificate_url = ""
+  date_start = "2016"
+  date_end = ""
+  description = "Description coming soon."
 
 [[item]]
   organization = "University of California, San Diego"
@@ -44,9 +54,9 @@ date_format = "Jan 2006"
   title = "Regents Scholarship"
   url = "https://fas.ucsd.edu/types/scholarships/regents-scholarships-for-entering-freshmen.html"
   certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2009"
   date_end = ""
-  description = "Blah"
+  description = "Description coming soon."
   
 [[item]]
   organization = "Bill & Melinda Gates Foundation"
@@ -54,8 +64,8 @@ date_format = "Jan 2006"
   title = "Gates Millennium Scholarship"
   url = "https://gmsp.org"
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = "blah"
+  date_start = "2009"
+  date_end = ""
+  description = "Description coming soon."
 
 +++
