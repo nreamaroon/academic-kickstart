@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Worked under the supervision of Dr. Kayvan Najarian on applications of artificial intelligence in medicine and healthcare. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
+  Worked under the guidance of Dr. Kayvan Najarian on applications of artificial intelligence in medicine and healthcare. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
 
 <details>
 
@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   date_end = "2013-12-01"
   description = """
 
-  Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner. My work focused on brain plasticity and neural pathways. 
+  Conducted undergraduate research at the Center for Neural Repair under the guidance of Dr. Mark Tuszynski and Dr. James Conner. My work focused on brain plasticity and neural pathways. 
 
 <details>
 
