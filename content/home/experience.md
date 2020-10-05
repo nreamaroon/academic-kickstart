@@ -30,7 +30,9 @@ date_format = "Jan 2006"
   Worked under the supervision of Dr. Kayvan Najarian on applications of artificial intelligence in medicine and healthcare. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
 
 <details>
+
   <summary>More info.</summary>
+  
   Responsibilities include:
   
   * Developed theoretically motivated, principled algorithms for clinical decision support systems.
