@@ -11,5 +11,6 @@ publication: "*IEEE Journal of Biomedical and Health Informatics*"
 url_pdf: "https://ieeexplore.ieee.org/document/8304750/"
 doi: "10.1109/JBHI.2018.2810820"
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/Label%20Uncertainty"
+url_project: 'https://nickreamaroon.com/project/uncertainty/'
 ---
 

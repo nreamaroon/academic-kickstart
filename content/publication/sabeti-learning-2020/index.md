@@ -11,5 +11,6 @@ publication: "*IEEE Journal of Biomedical and Health Informatics*"
 url_pdf: "https://ieeexplore.ieee.org/document/9138681/"
 doi: "10.1109/JBHI.2020.3008601"
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/SVMp%2B"
+url_project: 'https://nickreamaroon.com/project/lupi/'
 ---
 
