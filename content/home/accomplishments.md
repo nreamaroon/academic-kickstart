@@ -29,12 +29,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University of Michigan, Rackham Graduate School"
+  organization = "University of Michigan"
   organization_url = "https://rackham.umich.edu"
   title = "Rackham Conference Travel Grant"
   url = "https://rackham.umich.edu/funding/funding-types/rackham-conference-travel-grant/"
   certificate_url = ""
-  date_start = "2017-08-01"
+  date_start = "2017-07-01"
   date_end = ""
   description = ""
 
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University of Michigan, Rackham Graduate School"
+  organization = "University of Michigan"
   organization_url = "https://rackham.umich.edu"
   title = "Rackham Merit Fellowship"
   url = "https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/"
