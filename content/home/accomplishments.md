@@ -18,21 +18,39 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "National Science Foundation"
+  organization_url = "https://www.nsf.gov"
+  title = "Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome"
+  url = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1722801&HistoricalAwards=false"
+  certificate_url = ""
+  date_start = "2017-09-01"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = "University of Michigan, Rackham Graduate School"
+  organization_url = "https://rackham.umich.edu"
+  title = "Rackham Conference Travel Grant"
+  url = "https://rackham.umich.edu/funding/funding-types/rackham-conference-travel-grant/"
+  certificate_url = ""
+  date_start = "2017-08-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Bill & Melinda Gates Foundation"
   organization_url = "https://www.gatesfoundation.org"
   title = "Gates Graduate Fellowship"
-  url = ""
-  certificate_url = "https://gmsp.org"
+  url = "https://gmsp.org"
+  certificate_url = ""
   date_start = "2016-09-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "University of Michigan"
-  organization_url = "https://umich.edu"
+  organization = "University of Michigan, Rackham Graduate School"
+  organization_url = "https://rackham.umich.edu"
   title = "Rackham Merit Fellowship"
   url = "https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/"
   certificate_url = ""
