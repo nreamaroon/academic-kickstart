@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   date_end = "2013-12-01"
   description = """
 
-  Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner. My work focused on neuroscience with a focus on brain plasticity and neural pathways. 
+  Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner. My work focused on brain plasticity and neural pathways. 
 
 <details>
 
