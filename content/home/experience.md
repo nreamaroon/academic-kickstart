@@ -35,6 +35,17 @@ date_format = "Jan 2006"
   * Close collaboration with a multi-disciplinary team of scientists/engineers in our lab and physicians at Michigan Medicine.
   * Led multiple projects from start to finish: including grant proposal, data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
 
+  Main courses include: 
+
+  * Machine learning
+  * Signal Processing and Machine Learning
+  * Deep Learning in Bioinformatics
+  * Applied Data Science
+  * Mathematics of Biological Networks
+  * Linear Algebra
+  * Probability and Computing
+  * Biostatistics
+
   """
 
 [[experience]]
