@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Awards & Recognition"
-subtitle = "test1"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
