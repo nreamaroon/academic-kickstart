@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Worked under the guidance of Dr. Kayvan Najarian on applications of artificial intelligence in medicine and healthcare. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
+  Worked under the guidance of Dr. Kayvan Najarian on applications of machine learning in healthcare and medicine. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
 
 <details>
 
@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   * Developed theoretically motivated, principled algorithms for clinical decision support systems.
   * Close collaboration with a multi-disciplinary team of scientists/engineers in our lab and physicians at Michigan Medicine.
   * Led multiple projects from start to finish: including grant proposal, data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
+  * Please see [projects](https://nickreamaroon.com/#projects) for specific works from my dissertation.
 
   <br>
 
