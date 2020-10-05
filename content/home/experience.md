@@ -83,12 +83,6 @@ date_format = "Jan 2006"
 
   Conducted undergraduate research at the Center for Neural Repair under the supervision of Dr. Mark Tuszynski and Dr. James Conner.
 
-<details>
-
-  <summary>More info.</summary>
-
-  <br>
-
   Main courses include: 
 
   * Information Theory
@@ -99,7 +93,5 @@ date_format = "Jan 2006"
   * Waves & Optics
   * Multivariate Analysis
   * Probability Theory"""
-
-</details>
 
 +++
