@@ -70,9 +70,19 @@ subtitle = ""
 ## Awards 
 
 * Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome\
-*National Science Foundation, 2017*
+*National Science Foundation • Sept 2017*
 
-* test
+* Rackham Conference Travel Grant\
+*University of Michigan • July 2017*
+
+* Gates Graduate Fellowship\
+*Bill & Melinda Gates Foundation • Sept 2016*
+
+* Rackham Merit Fellowship\
+*University of Michigan • May 2016*
+
+* Regents Scholarship\
+*University of California, San Diego • May 2016*
 
 ## Recognition 
 
