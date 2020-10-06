@@ -67,8 +67,15 @@ date_format = "Jan 2006"
   date_end = "2016-05-01"
   description = """Predictive modeling, statistical analysis, and assay validation for drug discovery.
 
+<details>
+
+  <summary>More info.</summary>
+
+  <br>
   * Built data visualization dashboard with an interactive interface (Tableau) to improve high-throughput screening efficiency.
   * Deployed and maintained machine learning models for real-time analysis of EC50 from target dose response curves.
+
+</details>
 
   """
 
