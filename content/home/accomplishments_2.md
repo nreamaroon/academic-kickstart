@@ -24,8 +24,18 @@ date_format = "Jan 2006"
   title = "Mentor, Undergraduate Research Opportunity Program (UROP)"
   url = "https://lsa.umich.edu/urop"
   certificate_url = ""
-  date_start = "2017-09-01"
+  date_start = "2020-08-01"
   date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Michigan"
+  organization_url = "https://umich.edu"
+  title = "Peer Mentor, Program in Biomedical Sciences"
+  url = "https://medicine.umich.edu/medschool/education/phd-programs/about-pibs"
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = "2019-05-01"
   description = ""
 
 
