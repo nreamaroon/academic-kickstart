@@ -73,13 +73,13 @@ subtitle = ""
 ## Awards 
 
 * Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome\
-*National Science Foundation • Sept 2017*
+*National Science Foundation • Sep 2017*
 
 * Rackham Conference Travel Grant\
-*University of Michigan • July 2017*
+*University of Michigan • Jul 2017*
 
 * Gates Graduate Fellowship\
-*Bill & Melinda Gates Foundation • Sept 2016*
+*Bill & Melinda Gates Foundation • Sep 2016*
 
 * Rackham Merit Fellowship\
 *University of Michigan • May 2016*
@@ -93,11 +93,15 @@ subtitle = ""
 *Data Science Symposium, Michigan Institute for Data Science • Oct 2018*
 
 * Best Student Poster, 2nd Place\
-*Digital Health Symposium, Fast Forward Medical Innovation • Sept 2018*
+*Digital Health Symposium, Fast Forward Medical Innovation • Sep 2018*
 
 * Best Poster, 1st Place\
-*Annual DCMB Retreat Poster Session • Sept 2017*
+*Annual DCMB Retreat Poster Session • Sep 2017*
 
 ## Involvement 
 
-blah
+* Mentor, Undergraduate Research Opportunity Program (UROP)\
+*University of Michigan • Aug 2020 - present*
+
+* Peer Mentor, Program in Biomedical Sciences (PIBS)\
+*University of Michigan • Aug 2018 - May 2019*
