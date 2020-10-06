@@ -78,17 +78,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-test
-
-[[item]]
-  organization = "Bill & Melinda Gates Foundation"
-  organization_url = "https://www.gatesfoundation.org"
-  title = "Gates Millennium Scholarship"
-  url = "https://gmsp.org"
-  certificate_url = ""
-  date_start = "2009-05-01"
-  date_end = ""
-  description = ""
-
-
 +++
