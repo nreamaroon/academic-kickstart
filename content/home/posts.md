@@ -81,8 +81,14 @@ subtitle = ""
 * Rackham Merit Fellowship\
 *University of Michigan • May 2016*
 
-* Regents Scholarship\
+* Provost Honors\
 *University of California, San Diego • May 2016*
+
+* Regents Scholarship\
+*University of California, San Diego • May 2009*
+
+* Gates Millennium Scholarship\
+*Bill & Melinda Gates Foundation • May 2009*
 
 ## Recognition 
 
