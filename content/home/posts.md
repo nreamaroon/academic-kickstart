@@ -69,10 +69,10 @@ subtitle = ""
 
 ## Awards 
 
-- Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome
-ffff
+* Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome\
+*National Science Foundation, 2017*
 
-- test
+* test
 
 ## Recognition 
 
