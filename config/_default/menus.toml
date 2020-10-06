@@ -36,7 +36,7 @@
   Weight = 50
 
 [[main]]
-  Name = "Involvement & Recognition"
+  Name = "Involvement"
   parent = "more"
   URL = "#involvement"
   Weight = 51
