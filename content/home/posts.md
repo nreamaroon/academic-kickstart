@@ -69,7 +69,10 @@ subtitle = ""
 
 ## Awards 
 
-blah
+- Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome
+ffff
+
+- test
 
 ## Recognition 
 
