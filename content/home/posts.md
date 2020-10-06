@@ -67,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
+<br>
+<br>
+
 ## Awards 
 
 * Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome\
@@ -86,7 +89,14 @@ subtitle = ""
 
 ## Recognition 
 
-blah
+* Outstanding Poster Award: Most Likely to Make an Impact in the Field\
+*Data Science Symposium, Michigan Institute for Data Science • Oct 2018*
+
+* Best Student Poster, 2nd Place\
+*Digital Health Symposium, Fast Forward Medical Innovation • Sept 2018*
+
+* Best Poster, 1st Place\
+*Annual DCMB Retreat Poster Session • Sept 2017*
 
 ## Involvement 
 
