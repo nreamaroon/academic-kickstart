@@ -67,11 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<br>
-<br>
-<br>
-<br>
-
 ## Awards 
 
 * Prediction and Assessment of Acute Respiratory Distress Syndrome\
