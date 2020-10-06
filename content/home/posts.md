@@ -69,10 +69,12 @@ subtitle = ""
 
 <br>
 <br>
+<br>
+<br>
 
 ## Awards 
 
-* Data-In-Motion Prediction and Assessment of Acute Respiratory Distress Syndrome\
+* Prediction and Assessment of Acute Respiratory Distress Syndrome\
 *National Science Foundation • Sep 2017*
 
 * Rackham Conference Travel Grant\
