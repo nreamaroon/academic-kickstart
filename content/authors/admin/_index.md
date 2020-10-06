@@ -1,6 +1,6 @@
 ---
 name: Narathip (Nick) Reamaroon
-role: PhD Student, Department of Computational Medicine & Bioinformatics
+role: PhD Candidate, Department of Computational Medicine & Bioinformatics
 avatar_filename: v1.png
 bio: ""
 interests:
