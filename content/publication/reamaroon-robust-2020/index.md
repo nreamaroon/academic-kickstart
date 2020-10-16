@@ -8,8 +8,8 @@ abstract: "This paper was just accepted on 09/25/20 - more info coming soon!."
 featured: false
 summary: "*BMC Medical Imaging*"
 publication: "*BMC Medical Imaging*"
-url_pdf: ""
-doi: ""
+url_pdf: "https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-020-00514-y"
+doi: "https://doi.org/10.1186/s12880-020-00514-y"
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/CXR"
 url_project: 'https://nickreamaroon.com/project/segmentation/'
 ---
