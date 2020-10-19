@@ -4,14 +4,13 @@ role: PhD Candidate, Department of Computational Medicine & Bioinformatics
 avatar_filename: v1.png
 bio: ""
 interests:
-  - Artificial Intelligence in Health
+  - AI in Health Research
   - Reinforcement Learning
   - Transfer Learning
+  - Learning Using Privileged Information (LUPI)
   - Model Interpretability
-  - Label Uncertainty
-  - Bayesian Inference
   - Probabilistic Modeling
-  - Bias and Fairness in ML
+  - Bias and Fairness in AI
 social:
   - icon: envelope
     icon_pack: fas
