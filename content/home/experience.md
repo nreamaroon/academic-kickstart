@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   
   * Developed theoretically motivated, principled algorithms for clinical decision support systems. Please see [projects](#projects) for specific works from my dissertation.
   * Close collaboration with a multi-disciplinary team of scientists/engineers in our lab and physicians at Michigan Medicine.
-  * Led multiple projects from start to finish: including grant proposal, data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
+  * Led multiple projects from start to finish: including data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
 
   <br>
 

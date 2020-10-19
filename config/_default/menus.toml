@@ -19,27 +19,27 @@
   weight = 30
 
 [[main]]
-  name = "Resume"
-  url = "files/nick-reamaroon-resume.pdf"
-  weight = 40
-
-[[main]]
   Name = "More"
   identifier = "more"
   URL = "#"
-  Weight = 50
+  Weight = 40
 
 [[main]]
   Name = "Experience"
   parent = "more"
   URL = "#experience"
-  Weight = 50
+  Weight = 40
 
 [[main]]
   Name = "Involvement & Recognition"
   parent = "more"
   URL = "#posts"
-  Weight = 51
+  Weight = 41
+
+[[main]]
+name = "Resume"
+url = "files/nick-reamaroon-resume.pdf"
+weight = 50
 
 [[main]]
   name = "Contact"
