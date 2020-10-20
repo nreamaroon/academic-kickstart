@@ -8,6 +8,7 @@ interests:
   - Reinforcement Learning
   - Transfer Learning
   - Learning Using Privileged Information (LUPI)
+  - Federated Learning
   - Model Interpretability
   - Probabilistic Modeling
   - Bias and Fairness in AI
