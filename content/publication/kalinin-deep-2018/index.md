@@ -11,6 +11,5 @@ summary: "*Pharmacogenomics*"
 url_pdf: "https://www.futuremedicine.com/doi/10.2217/pgs-2018-0008"
 doi: "10.2217/pgs-2018-0008"
 tags: ["Publication"]
-category: ["Publication2"]
 ---
 
