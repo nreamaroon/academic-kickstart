@@ -37,6 +37,12 @@
   Weight = 41
 
 [[main]]
+  Name = "Patents"
+  parent = "more"
+  URL = "#patents"
+  Weight = 41
+
+[[main]]
   name = "Resume"
   url = "files/nick-reamaroon-resume.pdf"
   weight = 50
