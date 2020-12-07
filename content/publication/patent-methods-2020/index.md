@@ -18,6 +18,8 @@ doi: ""
 links:
 - name: Patent Info
   url: https://patents.google.com/patent/US20200294623A1/en
+- name: USPTO
+  url: https://assignment.uspto.gov/patent/index.html#/patent/search/resultAssignment?searchInput=20200294623&id=51755-845
 
 ---
 

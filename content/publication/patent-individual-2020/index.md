@@ -18,6 +18,8 @@ doi: ""
 links:
 - name: Patent Info
   url: https://patents.google.com/patent/US20200135337A1/en
+- name: USPTO
+  url: https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20200135337
 
 ---
 

@@ -18,6 +18,8 @@ doi: ""
 links:
 - name: Patent Info
   url: https://patents.google.com/patent/US20200234810A1/en
+- name: USPTO
+  url: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20200234810.PGNR.
 
 ---
 
