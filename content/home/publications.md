@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "test"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
