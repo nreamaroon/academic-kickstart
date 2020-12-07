@@ -15,5 +15,9 @@ featured: false
 
 doi: ""
 
+links:
+- name: Patent Info
+  url: https://patents.google.com/patent/US20200135337A1/en
+
 ---
 

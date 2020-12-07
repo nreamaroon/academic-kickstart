@@ -16,8 +16,8 @@ featured: false
 doi: ""
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Patent Info
+  url: https://patents.google.com/patent/US20200294623A1/en
 
 ---
 
