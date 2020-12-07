@@ -6,11 +6,11 @@ bio: ""
 interests:
   - AI in Health Research
   - Reinforcement Learning
+  - Federated Learning
   - Transfer Learning
   - Learning Using Privileged Information (LUPI)
-  - Federated Learning
+  - Bayesian Optimization
   - Model Interpretability
-  - Probabilistic Modeling
   - Bias and Fairness in AI
 social:
   - icon: envelope
