@@ -15,5 +15,9 @@ featured: false
 
 doi: ""
 
+links:
+- name: Custom Link
+  url: http://example.org
+
 ---
 
