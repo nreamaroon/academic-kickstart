@@ -13,9 +13,6 @@ abstract: "Methods comprising an integrated, multiscale artificial intelligence-
 
 featured: false
 
-- name: Custom Link
-  url: https://patents.google.com/patent/US20200294623A1/en
-
 doi: "10.1016/j.imu.2019.100222"
 
 ---
