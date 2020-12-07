@@ -37,9 +37,9 @@
   Weight = 41
 
 [[main]]
-name = "Resume"
-url = "files/nick-reamaroon-resume.pdf"
-weight = 50
+  name = "Resume"
+  url = "files/nick-reamaroon-resume.pdf"
+  weight = 50
 
 [[main]]
   name = "Contact"
