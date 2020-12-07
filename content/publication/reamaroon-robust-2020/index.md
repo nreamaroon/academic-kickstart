@@ -12,5 +12,6 @@ url_pdf: "https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-020-00
 doi: "https://doi.org/10.1186/s12880-020-00514-y"
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/CXR"
 url_project: 'https://nickreamaroon.com/project/segmentation/'
+tags: ["Publication"]
 ---
 

@@ -12,5 +12,6 @@ url_pdf: ""
 doi: ""
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/CXR%20Features"
 url_project: 'https://nickreamaroon.com/project/deep/'
+tags: ["Publication"]
 ---
 

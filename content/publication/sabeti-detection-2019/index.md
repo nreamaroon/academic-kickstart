@@ -12,6 +12,7 @@ url_pdf: "https://ieeexplore.ieee.org/document/8857434/"
 doi: "10.1109/EMBC.2019.8857434"
 url_code: "https://github.com/kayvanlabs/ARDS/tree/master/SVMp%2B"
 url_project: 'https://nickreamaroon.com/project/lupi/'
+tags: ["Publication"]
 
 ---
 
