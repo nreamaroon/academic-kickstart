@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Conducted research under the guidance of Dr. Kayvan Najarian on applications of machine learning in healthcare and medicine. Responsibilities involved are data acquisition/processing, close collaboration with clinicians, experiment design, algorithm development, and training machine/deep learning models at scale. My dissertation is (tentatively) titled, "*Label Uncertainty and Learning Using Partially Available Privileged Information in Detection of Acute Respiratory Distress Syndrome: Applications of Machine Learning to Health Research and Medicine*."
+  Conducted research under the guidance of Dr. Kayvan Najarian on applications of machine learning in healthcare and medicine. Develop theoretically-motivated, principled algorithms to solve problems such as label uncertainty and representation of unreliable data by drawing from reinforcement learning, computer vision, causal inference, and other structured learning approaches.
 
 <details>
 
