@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Worked under the guidance of Dr. Kayvan Najarian on applications of machine learning in healthcare and medicine. My dissertation is (tentatively) titled, "*Artifical Intelligence in Clinical Decision Making: Applications in Acute Respiratory Distress Syndrome*."
+  Conducted research under the guidance of Dr. Kayvan Najarian on applications of machine learning in healthcare and medicine. Responsibilities involved are data acquisition/processing, close collaboration with clinicians, experiment design, algorithm development, and training machine/deep learning models at scale. My dissertation is (tentatively) titled, "*Label Uncertainty and Learning Using Partially Available Privileged Information in Detection of Acute Respiratory Distress Syndrome: Applications of Machine Learning to Health Research and Medicine*."
 
 <details>
 
@@ -35,11 +35,17 @@ date_format = "Jan 2006"
 
   <br>
 
-  Responsibilities include:
+  Projets include:
   
-  * Developed theoretically motivated, principled algorithms for clinical decision support systems. Please see [projects](#projects) for specific works from my dissertation.
-  * Close collaboration with a multi-disciplinary team of scientists/engineers in our lab and physicians at Michigan Medicine.
-  * Led multiple projects from start to finish: including data acquisition + processing, algorithm development, model training + validation, and publications in multiple journals and conferences.
+  * Learning Using Privileged Information (LUPI) in reinforcement learning, XGBoost, and SVM to utilize knowledge/data accessible only during model training but not available during testing/deployment. Designed a retrospective-prospective study to validate, test, and deploy trained machine learning models on data from Michigan Medicine (with IRB approval).
+
+  * Transfer learning w/ convolutional neural networks and deep residual networks for predictive modeling and detection of critical illness from chest x-rays and CT scans. Implemented and trained deep learning models with scalable architecture using TensorFlow and Keras. 
+
+  * Feature engineering and development of novel feature extraction techniques (e.g. Directional Blur) to capture diffuse lung opacities as a mathematical concept for detection of acute respiratory distress syndrome.
+
+  * Accounting for label uncertainty from ambiguity in medical diagnosis. Developed robust methods to incorporate diagnostic uncertainty into Support Vector Machines for clinical decision making. Developed and optimized algorithms as part of a multi-disciplinary collaboration between research engineers in our lab and physicians at Michigan Medicine. 
+
+  * Lung segmentation on complex chest x-ray scans of hospitalized, critically ill patients with severe lung pathology (e.g. acute hypoxic respiratory failure, ARDS) at Michigan Medicine. Implemented and trained a U-Net based convolutional neural network for lung segmentation and developed a novel method for lung segmentation in conjunction with traditional image process techniques to achieve outstanding results.
 
   <br>
 
